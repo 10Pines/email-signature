@@ -47,6 +47,10 @@ button:hover {
     box-shadow: 0px 10px 20px 0px #e2e2e2;
 }
 
+.generator .tutorial {
+    margin-bottom: 1em;
+}
+
 .generator label {
     display: block;
     margin-bottom: 1.5em;
